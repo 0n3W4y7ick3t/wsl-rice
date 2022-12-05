@@ -1,0 +1,10 @@
+# You can add comments to these files with #
+mn   /mnt
+h    $HOME
+cf   $HOME/.config
+sc   $HOME/.scripts
+dt   $HOME/.local/share
+cac  $HOME/.cache
+src  $HOME/code
+dev  $HOME/code/dev
+gt   $HOME/code/git
